@@ -11,6 +11,6 @@
 
 ### Make
 
-make run - Executa as queries
-make clean - Limpa o diretório de binários
-make build - Compila o programa para diferentes arquiteturas
+- make run - Executa as queries
+- make clean - Limpa o diretório de binários
+- make build - Compila o programa para diferentes arquiteturas
