@@ -2,10 +2,11 @@
 
 ### Instalação
 
-- git clone https://github.com/rilder-almeida/pi-senac-03.git
-- adicione as queries no diretório sqlqueries
-- execute o binário para rodar as queries
-- o banco pode ser visto no site https://sqliteviewer.app/
+- Baixe o repositório: git clone https://github.com/rilder-almeida/pi-senac-03.git
+- Adicione as queries no diretório sqlqueries
+- Execute o binário para rodar as queries
+- O banco pode ser visto no site https://sqliteviewer.app/
+- Lembre-se de dar um push no repositório
 
 ### Adicionar queries
 
