@@ -6,5 +6,5 @@
 
 ### Adicionar queries
 
-sqlqueries/make_tables - Cria as tabelas do banco de dados
-sqlqueries/insert_data - Insere dados nas tabelas
+- sqlqueries/make_tables: Cria as tabelas do banco de dados
+- sqlqueries/insert_data: Insere dados nas tabelas
