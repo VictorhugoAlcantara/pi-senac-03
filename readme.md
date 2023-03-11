@@ -20,4 +20,3 @@
 - make build - Compila o programa para diferentes arquiteturas
 
 
-teste 
